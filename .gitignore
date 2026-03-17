@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# C++
+*.out
+
+# OS
+.DS_Store
